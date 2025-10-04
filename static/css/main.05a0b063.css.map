@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.05a0b063.css","mappings":"AACA,KAAiB,kBAAkB,CAAE,UAAW,CAAE,qBAAqB,CAAhE,QAAkE,CACzE,MAAQ,gBAAkB","sources":["index.css"],"sourcesContent":["\nbody { margin:0; background:#071018; color:white; font-family:system-ui; }\n#root { min-height:100vh; }\n"],"names":[],"sourceRoot":""}

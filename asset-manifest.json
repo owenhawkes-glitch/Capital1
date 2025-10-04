@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Capital1/static/css/main.05a0b063.css",
+    "main.js": "/Capital1/static/js/main.bf217dc1.js",
+    "index.html": "/Capital1/index.html",
+    "main.05a0b063.css.map": "/Capital1/static/css/main.05a0b063.css.map",
+    "main.bf217dc1.js.map": "/Capital1/static/js/main.bf217dc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05a0b063.css",
+    "static/js/main.bf217dc1.js"
+  ]
+}
